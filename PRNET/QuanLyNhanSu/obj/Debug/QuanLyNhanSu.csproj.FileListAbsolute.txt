@@ -1,0 +1,292 @@
+c:\users\tu tu\documents\visual studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+c:\users\tu tu\documents\visual studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+c:\users\tu tu\documents\visual studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+c:\users\tu tu\documents\visual studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Form1.resources
+c:\users\tu tu\documents\visual studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.KetNoi.resources
+c:\users\tu tu\documents\visual studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+c:\users\tu tu\documents\visual studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.QuanLy.resources
+c:\users\tu tu\documents\visual studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.Cache
+c:\users\tu tu\documents\visual studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+c:\users\tu tu\documents\visual studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+c:\users\tu tu\documents\visual studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Start.resources
+C:\Users\Tu Tu\documents\visual studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.DoiMatKhau.resources
+C:\Users\Tu Tu\documents\visual studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.DoiThongTin.resources
+C:\Users\Tu Tu\documents\visual studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.PhongBan.resources
+C:\Users\Tu Tu\documents\visual studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.NhanVien.resources
+C:\Users\Tu Tu\documents\visual studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.ChucVu.resources
+C:\Users\Tu Tu\documents\visual studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.TimTrenWeb.resources
+C:\Users\Tu Tu\documents\visual studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.TaoTaiKhoan.resources
+C:\Users\Tu Tu\documents\visual studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csprojResolveAssemblyReference.cache
+C:\Users\Tu Tu\documents\visual studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.SuaTK.resources
+C:\Users\Tu Tu\Documents\Visual Studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.ctChamCong.resources
+C:\Users\Tu Tu\Documents\Visual Studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.TinhLuong.resources
+C:\Users\Tu Tu\Documents\Visual Studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.ThuongPhat.resources
+C:\Users\Tu Tu\Documents\Visual Studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkChamCong.resources
+C:\Users\Tu Tu\Documents\Visual Studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkNVNghiTrongNgay.resources
+C:\Users\Tu Tu\Documents\Visual Studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkNVNghiCoPhep.resources
+C:\Users\Tu Tu\Documents\Visual Studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkXemccTheoTen.resources
+C:\Users\Tu Tu\Documents\Visual Studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkXemccTheoPhong.resources
+C:\Users\Tu Tu\Documents\Visual Studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkSoNgayDiLam.resources
+C:\Users\Tu Tu\Documents\Visual Studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkSoNgayNghiCoPhep.resources
+C:\Users\Tu Tu\Documents\Visual Studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkSoNgayNghiKhongPhep.resources
+C:\Users\Tu Tu\Documents\Visual Studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.tkNhanVien.resources
+C:\Users\Tu Tu\Documents\Visual Studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.tkLSLam.resources
+C:\Users\Tu Tu\Documents\Visual Studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.BaoHiem.resources
+C:\Users\Tu Tu\Documents\Visual Studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.PhuCap.resources
+C:\Users\Tu Tu\Documents\Visual Studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.abc.resources
+C:\Users\marin_000\Desktop\PRNET\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+C:\Users\marin_000\Desktop\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+C:\Users\marin_000\Desktop\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+C:\Users\marin_000\Desktop\PRNET\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+C:\Users\marin_000\Desktop\PRNET\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+C:\Users\marin_000\Desktop\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csprojResolveAssemblyReference.cache
+C:\Users\marin_000\Desktop\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.BaoHiem.resources
+C:\Users\marin_000\Desktop\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.ChucVu.resources
+C:\Users\marin_000\Desktop\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.ctChamCong.resources
+C:\Users\marin_000\Desktop\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.DoiMatKhau.resources
+C:\Users\marin_000\Desktop\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.DoiThongTin.resources
+C:\Users\marin_000\Desktop\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.NhanVien.resources
+C:\Users\marin_000\Desktop\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.PhongBan.resources
+C:\Users\marin_000\Desktop\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.PhuCap.resources
+C:\Users\marin_000\Desktop\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.SuaTK.resources
+C:\Users\marin_000\Desktop\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.TaoTaiKhoan.resources
+C:\Users\marin_000\Desktop\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.ThuongPhat.resources
+C:\Users\marin_000\Desktop\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.TimTrenWeb.resources
+C:\Users\marin_000\Desktop\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.TinhLuong.resources
+C:\Users\marin_000\Desktop\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.tkLSLam.resources
+C:\Users\marin_000\Desktop\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.tkNhanVien.resources
+C:\Users\marin_000\Desktop\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Form1.resources
+C:\Users\marin_000\Desktop\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.KetNoi.resources
+C:\Users\marin_000\Desktop\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+C:\Users\marin_000\Desktop\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.QuanLy.resources
+C:\Users\marin_000\Desktop\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Start.resources
+C:\Users\marin_000\Desktop\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkChamCong.resources
+C:\Users\marin_000\Desktop\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.abc.resources
+C:\Users\marin_000\Desktop\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkNVNghiCoPhep.resources
+C:\Users\marin_000\Desktop\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkNVNghiTrongNgay.resources
+C:\Users\marin_000\Desktop\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkSoNgayDiLam.resources
+C:\Users\marin_000\Desktop\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkSoNgayNghiCoPhep.resources
+C:\Users\marin_000\Desktop\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkSoNgayNghiKhongPhep.resources
+C:\Users\marin_000\Desktop\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkXemccTheoPhong.resources
+C:\Users\marin_000\Desktop\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkXemccTheoTen.resources
+C:\Users\marin_000\Desktop\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.Cache
+G:\Class\Lap_Trinh.Net\Do an .NET\QuanLyNhanSu\PRNET\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+G:\Class\Lap_Trinh.Net\Do an .NET\QuanLyNhanSu\PRNET\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+G:\Class\Lap_Trinh.Net\Do an .NET\QuanLyNhanSu\PRNET\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+G:\Class\Lap_Trinh.Net\Do an .NET\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csprojAssemblyReference.cache
+G:\Class\Lap_Trinh.Net\Do an .NET\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.BaoHiem.resources
+G:\Class\Lap_Trinh.Net\Do an .NET\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.ChucVu.resources
+G:\Class\Lap_Trinh.Net\Do an .NET\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.ctChamCong.resources
+G:\Class\Lap_Trinh.Net\Do an .NET\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.DoiMatKhau.resources
+G:\Class\Lap_Trinh.Net\Do an .NET\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.DoiThongTin.resources
+G:\Class\Lap_Trinh.Net\Do an .NET\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.NhanVien.resources
+G:\Class\Lap_Trinh.Net\Do an .NET\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.PhongBan.resources
+G:\Class\Lap_Trinh.Net\Do an .NET\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.PhuCap.resources
+G:\Class\Lap_Trinh.Net\Do an .NET\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.SuaTK.resources
+G:\Class\Lap_Trinh.Net\Do an .NET\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.TaoTaiKhoan.resources
+G:\Class\Lap_Trinh.Net\Do an .NET\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.ThuongPhat.resources
+G:\Class\Lap_Trinh.Net\Do an .NET\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.TimTrenWeb.resources
+G:\Class\Lap_Trinh.Net\Do an .NET\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.TinhLuong.resources
+G:\Class\Lap_Trinh.Net\Do an .NET\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.tkLSLam.resources
+G:\Class\Lap_Trinh.Net\Do an .NET\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.tkNhanVien.resources
+G:\Class\Lap_Trinh.Net\Do an .NET\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Form1.resources
+G:\Class\Lap_Trinh.Net\Do an .NET\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.KetNoi.resources
+G:\Class\Lap_Trinh.Net\Do an .NET\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+G:\Class\Lap_Trinh.Net\Do an .NET\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.QuanLy.resources
+G:\Class\Lap_Trinh.Net\Do an .NET\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Start.resources
+G:\Class\Lap_Trinh.Net\Do an .NET\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkChamCong.resources
+G:\Class\Lap_Trinh.Net\Do an .NET\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.abc.resources
+G:\Class\Lap_Trinh.Net\Do an .NET\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkNVNghiCoPhep.resources
+G:\Class\Lap_Trinh.Net\Do an .NET\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkNVNghiTrongNgay.resources
+G:\Class\Lap_Trinh.Net\Do an .NET\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkSoNgayDiLam.resources
+G:\Class\Lap_Trinh.Net\Do an .NET\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkSoNgayNghiCoPhep.resources
+G:\Class\Lap_Trinh.Net\Do an .NET\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkSoNgayNghiKhongPhep.resources
+G:\Class\Lap_Trinh.Net\Do an .NET\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkXemccTheoPhong.resources
+G:\Class\Lap_Trinh.Net\Do an .NET\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkXemccTheoTen.resources
+G:\Class\Lap_Trinh.Net\Do an .NET\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.cache
+G:\Class\Lap_Trinh.Net\Do an .NET\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+G:\Class\Lap_Trinh.Net\Do an .NET\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+G:\Class\Lap_Trinh.Net\QuanLyNhanSu\PRNET\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+G:\Class\Lap_Trinh.Net\QuanLyNhanSu\PRNET\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+G:\Class\Lap_Trinh.Net\QuanLyNhanSu\PRNET\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+G:\Class\Lap_Trinh.Net\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csprojAssemblyReference.cache
+G:\Class\Lap_Trinh.Net\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.BaoHiem.resources
+G:\Class\Lap_Trinh.Net\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.ChucVu.resources
+G:\Class\Lap_Trinh.Net\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.ctChamCong.resources
+G:\Class\Lap_Trinh.Net\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.DoiMatKhau.resources
+G:\Class\Lap_Trinh.Net\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.DoiThongTin.resources
+G:\Class\Lap_Trinh.Net\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.NhanVien.resources
+G:\Class\Lap_Trinh.Net\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.PhongBan.resources
+G:\Class\Lap_Trinh.Net\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.PhuCap.resources
+G:\Class\Lap_Trinh.Net\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.SuaTK.resources
+G:\Class\Lap_Trinh.Net\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.TaoTaiKhoan.resources
+G:\Class\Lap_Trinh.Net\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.ThuongPhat.resources
+G:\Class\Lap_Trinh.Net\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.TimTrenWeb.resources
+G:\Class\Lap_Trinh.Net\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.TinhLuong.resources
+G:\Class\Lap_Trinh.Net\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.tkLSLam.resources
+G:\Class\Lap_Trinh.Net\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.tkNhanVien.resources
+G:\Class\Lap_Trinh.Net\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Form1.resources
+G:\Class\Lap_Trinh.Net\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.KetNoi.resources
+G:\Class\Lap_Trinh.Net\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+G:\Class\Lap_Trinh.Net\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.QuanLy.resources
+G:\Class\Lap_Trinh.Net\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Start.resources
+G:\Class\Lap_Trinh.Net\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkChamCong.resources
+G:\Class\Lap_Trinh.Net\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.abc.resources
+G:\Class\Lap_Trinh.Net\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkNVNghiCoPhep.resources
+G:\Class\Lap_Trinh.Net\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkNVNghiTrongNgay.resources
+G:\Class\Lap_Trinh.Net\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkSoNgayDiLam.resources
+G:\Class\Lap_Trinh.Net\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkSoNgayNghiCoPhep.resources
+G:\Class\Lap_Trinh.Net\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkSoNgayNghiKhongPhep.resources
+G:\Class\Lap_Trinh.Net\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkXemccTheoPhong.resources
+G:\Class\Lap_Trinh.Net\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkXemccTheoTen.resources
+G:\Class\Lap_Trinh.Net\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.cache
+G:\Class\Lap_Trinh.Net\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CoreCompileInputs.cache
+G:\Class\Lap_Trinh.Net\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+G:\Class\Lap_Trinh.Net\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+G:\GitHub\QuanLyNhanSu\PRNET\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+G:\GitHub\QuanLyNhanSu\PRNET\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+G:\GitHub\QuanLyNhanSu\PRNET\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+G:\GitHub\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csprojAssemblyReference.cache
+G:\GitHub\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.BaoHiem.resources
+G:\GitHub\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.ChucVu.resources
+G:\GitHub\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.ctChamCong.resources
+G:\GitHub\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.DoiMatKhau.resources
+G:\GitHub\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.DoiThongTin.resources
+G:\GitHub\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.NhanVien.resources
+G:\GitHub\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.PhongBan.resources
+G:\GitHub\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.PhuCap.resources
+G:\GitHub\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.SuaTK.resources
+G:\GitHub\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.TaoTaiKhoan.resources
+G:\GitHub\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.ThuongPhat.resources
+G:\GitHub\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.TimTrenWeb.resources
+G:\GitHub\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.TinhLuong.resources
+G:\GitHub\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.tkLSLam.resources
+G:\GitHub\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.tkNhanVien.resources
+G:\GitHub\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Form1.resources
+G:\GitHub\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.KetNoi.resources
+G:\GitHub\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+G:\GitHub\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.QuanLy.resources
+G:\GitHub\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Start.resources
+G:\GitHub\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkChamCong.resources
+G:\GitHub\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.abc.resources
+G:\GitHub\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkNVNghiCoPhep.resources
+G:\GitHub\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkNVNghiTrongNgay.resources
+G:\GitHub\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkSoNgayDiLam.resources
+G:\GitHub\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkSoNgayNghiCoPhep.resources
+G:\GitHub\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkSoNgayNghiKhongPhep.resources
+G:\GitHub\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkXemccTheoPhong.resources
+G:\GitHub\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkXemccTheoTen.resources
+G:\GitHub\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.cache
+G:\GitHub\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CoreCompileInputs.cache
+G:\GitHub\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+G:\GitHub\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+G:\GitHub\QuanLyNhanSu\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.ResolveComReference.cache
+F:\WEB\NET\PRNET\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+F:\WEB\NET\PRNET\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+F:\WEB\NET\PRNET\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+F:\WEB\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.AssemblyReference.cache
+F:\WEB\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.ResolveComReference.cache
+F:\WEB\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.BaoHiem.resources
+F:\WEB\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.ChucVu.resources
+F:\WEB\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.ctChamCong.resources
+F:\WEB\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.DoiMatKhau.resources
+F:\WEB\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.DoiThongTin.resources
+F:\WEB\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.NhanVien.resources
+F:\WEB\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.PhongBan.resources
+F:\WEB\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.SuaTK.resources
+F:\WEB\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.TaoTaiKhoan.resources
+F:\WEB\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.ThuongPhat.resources
+F:\WEB\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.TimTrenWeb.resources
+F:\WEB\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.TinhLuong.resources
+F:\WEB\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.tkLSLam.resources
+F:\WEB\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.tkNhanVien.resources
+F:\WEB\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Form1.resources
+F:\WEB\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.KetNoi.resources
+F:\WEB\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+F:\WEB\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.QuanLy.resources
+F:\WEB\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Start.resources
+F:\WEB\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkChamCong.resources
+F:\WEB\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.abc.resources
+F:\WEB\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkNVNghiCoPhep.resources
+F:\WEB\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkNVNghiTrongNgay.resources
+F:\WEB\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkSoNgayDiLam.resources
+F:\WEB\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkSoNgayNghiCoPhep.resources
+F:\WEB\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkSoNgayNghiKhongPhep.resources
+F:\WEB\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkXemccTheoPhong.resources
+F:\WEB\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkXemccTheoTen.resources
+F:\WEB\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.cache
+F:\WEB\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CoreCompileInputs.cache
+F:\WEB\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+F:\WEB\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+C:\Users\ADMIN\Downloads\NET\PRNET\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+C:\Users\ADMIN\Downloads\NET\PRNET\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+C:\Users\ADMIN\Downloads\NET\PRNET\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+C:\Users\ADMIN\Downloads\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.ResolveComReference.cache
+C:\Users\ADMIN\Downloads\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.BaoHiem.resources
+C:\Users\ADMIN\Downloads\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.ChucVu.resources
+C:\Users\ADMIN\Downloads\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.ctChamCong.resources
+C:\Users\ADMIN\Downloads\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.DoiMatKhau.resources
+C:\Users\ADMIN\Downloads\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.DoiThongTin.resources
+C:\Users\ADMIN\Downloads\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.NhanVien.resources
+C:\Users\ADMIN\Downloads\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.PhongBan.resources
+C:\Users\ADMIN\Downloads\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.SuaTK.resources
+C:\Users\ADMIN\Downloads\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.TaoTaiKhoan.resources
+C:\Users\ADMIN\Downloads\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.ThuongPhat.resources
+C:\Users\ADMIN\Downloads\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.TimTrenWeb.resources
+C:\Users\ADMIN\Downloads\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.TinhLuong.resources
+C:\Users\ADMIN\Downloads\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.tkNhanVien.resources
+C:\Users\ADMIN\Downloads\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Form1.resources
+C:\Users\ADMIN\Downloads\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.KetNoi.resources
+C:\Users\ADMIN\Downloads\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.QuanLy.resources
+C:\Users\ADMIN\Downloads\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Start.resources
+C:\Users\ADMIN\Downloads\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkChamCong.resources
+C:\Users\ADMIN\Downloads\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.abc.resources
+C:\Users\ADMIN\Downloads\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkNVNghiCoPhep.resources
+C:\Users\ADMIN\Downloads\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkNVNghiTrongNgay.resources
+C:\Users\ADMIN\Downloads\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkSoNgayDiLam.resources
+C:\Users\ADMIN\Downloads\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkSoNgayNghiCoPhep.resources
+C:\Users\ADMIN\Downloads\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkSoNgayNghiKhongPhep.resources
+C:\Users\ADMIN\Downloads\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkXemccTheoPhong.resources
+C:\Users\ADMIN\Downloads\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkXemccTheoTen.resources
+C:\Users\ADMIN\Downloads\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+C:\Users\ADMIN\Downloads\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+F:\Intern\NET\PRNET\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+F:\Intern\NET\PRNET\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+F:\Intern\NET\PRNET\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+F:\Intern\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.AssemblyReference.cache
+F:\Intern\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.ResolveComReference.cache
+F:\Intern\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.BaoHiem.resources
+F:\Intern\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.ChucVu.resources
+F:\Intern\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.ctChamCong.resources
+F:\Intern\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.DoiMatKhau.resources
+F:\Intern\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.DoiThongTin.resources
+F:\Intern\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.NhanVien.resources
+F:\Intern\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.PhongBan.resources
+F:\Intern\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.SuaTK.resources
+F:\Intern\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.TaoTaiKhoan.resources
+F:\Intern\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.ThuongPhat.resources
+F:\Intern\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.TimTrenWeb.resources
+F:\Intern\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.TinhLuong.resources
+F:\Intern\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.CT.tkNhanVien.resources
+F:\Intern\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Form1.resources
+F:\Intern\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.KetNoi.resources
+F:\Intern\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+F:\Intern\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.QuanLy.resources
+F:\Intern\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Start.resources
+F:\Intern\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkChamCong.resources
+F:\Intern\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.abc.resources
+F:\Intern\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkNVNghiCoPhep.resources
+F:\Intern\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkNVNghiTrongNgay.resources
+F:\Intern\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkSoNgayDiLam.resources
+F:\Intern\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkSoNgayNghiCoPhep.resources
+F:\Intern\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkSoNgayNghiKhongPhep.resources
+F:\Intern\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkXemccTheoPhong.resources
+F:\Intern\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.tkXemccTheoTen.resources
+F:\Intern\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.cache
+F:\Intern\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CoreCompileInputs.cache
+F:\Intern\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+F:\Intern\NET\PRNET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
